@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Handin_Week6_BusinessCard</string>
+    <string name="description">
+        "Maersk Inc. provides transportation and logistic services. The company offers services such as freight consolidation and logistics, domestic transportation, truck terminal and warehousing operations, data services, and port inland terminal management. Maersk serves customers worldwide"
+    </string>
+
 </resources>

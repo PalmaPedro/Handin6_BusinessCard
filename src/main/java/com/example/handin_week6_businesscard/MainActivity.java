@@ -16,8 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     // method to handle button click
     public void goToPage2(View view){
-
-        Intent intent=new Intent(this, Page2.class);
+        Intent intent=new Intent(this, Page2Activity.class);
         startActivity(intent);
 
     }
